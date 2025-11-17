@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/cf16b_next_dist_compiled_063a79c1._.js",
+      "static/chunks/cf16b_next_dist_shared_lib_ec138198._.js",
+      "static/chunks/cf16b_next_dist_client_12a29948._.js",
+      "static/chunks/cf16b_next_dist_b0255839._.js",
+      "static/chunks/cf16b_next_app_7b3423c8.js",
+      "static/chunks/[next]_entry_page-loader_ts_17ceca99._.js",
+      "static/chunks/cf16b_react-dom_e719a879._.js",
+      "static/chunks/cf16b_4ccedecf._.js",
+      "static/chunks/[root-of-the-server]__c5e63ab3._.js",
+      "static/chunks/Downloads_jobboardpro_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_jobboardpro_pages__app_cbeae07a._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
