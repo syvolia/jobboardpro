@@ -20,12 +20,12 @@ export function Header() {
                 <a href="/" className="text-gray-700 hover:text-blue-600">
                   Jobs
                 </a>
-                <a
+                {/* <a
                   href="/companies"
                   className="text-gray-700 hover:text-blue-600"
                 >
                   Companies
-                </a>
+                </a> */}
                 {user && (
                   <>
                     <a
@@ -40,12 +40,12 @@ export function Header() {
                     >
                       Applications
                     </a>
-                    <a
+                    {/* <a
                       href="/admin"
                       className="text-gray-700 hover:text-blue-600"
                     >
                       Admin
-                    </a>
+                    </a> */}
                   </>
                 )}
               </nav>
